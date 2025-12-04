@@ -55,18 +55,6 @@
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tungvt2003&show_icons=true&locale=en&layout=compact&theme=radical" alt="tungvt2003" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tungvt2003&show_icons=true&locale=en&theme=radical" alt="tungvt2003" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tungvt2003&theme=radical" alt="tungvt2003" />
-</p>
 
 ---
 
