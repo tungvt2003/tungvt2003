@@ -58,12 +58,5 @@
 
 ---
 
-### 🚀 Featured Projects
-- [**Portfolio Website**](#) – A modern personal portfolio.
-- [**React Native App**](#) – A mobile app for task management.
-- [**Next.js E-commerce**](#) – A scalable e-commerce platform.
-
----
-
 ### 💡 Quote of the Day
 > *“Code is like humor. When you have to explain it, it’s bad.”*
