@@ -60,3 +60,5 @@
 
 ### 💡 Quote of the Day
 > *“Code is like humor. When you have to explain it, it’s bad.”*
+
+![Van Tung's GitHub stats](https://github-readme-stats.vercel.app/api?username=tungvt2003&show_icons=true&theme=radical)
