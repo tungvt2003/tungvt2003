@@ -25,6 +25,17 @@ jobs:
           config_timezone: Asia/Ho_Chi_Minh
           config_output: svg
 
+      - name: Overview card (dark)
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: tungvt2003
+          filename: metrics/overview-dark.svg
+          base: header, activity, community, repositories
+          config_timezone: Asia/Ho_Chi_Minh
+          config_output: svg
+          config_theme: dark
+
       - name: Languages card
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
@@ -37,3 +48,17 @@ jobs:
           plugin_languages_sections: most-used
           config_timezone: Asia/Ho_Chi_Minh
           config_output: svg
+
+      - name: Languages card (dark)
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: tungvt2003
+          filename: metrics/languages-dark.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          config_timezone: Asia/Ho_Chi_Minh
+          config_output: svg
+          config_theme: dark

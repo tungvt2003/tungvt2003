@@ -103,14 +103,14 @@ const tung = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=tungvt2003&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=06B6D4&text_color=C9D1D9&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=tungvt2003&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=6D28D9&icon_color=0891B2&text_color=24292F&rank_icon=github" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tungvt2003&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="metrics/overview-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="metrics/overview.svg" />
+    <img src="metrics/overview.svg" alt="GitHub overview" width="47%" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tungvt2003&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tungvt2003&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=24292F" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tungvt2003&layout=compact&hide_border=true" alt="Top languages" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="metrics/languages-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="metrics/languages.svg" />
+    <img src="metrics/languages.svg" alt="Most used languages" width="47%" />
   </picture>
 </p>
 
